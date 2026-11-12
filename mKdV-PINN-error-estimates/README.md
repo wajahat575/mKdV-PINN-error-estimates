@@ -102,5 +102,12 @@ jobs they are `(x, t, p_1, ..., p_m)`, with the parameters in the order of
 
 ## Citation
 
-If you use this code, please cite the paper above. The full reference will be
-added here after publication.
+## Citation
+
+If you use this code, please cite
+
+> H. W. A. Riaz, A. Alshuhail and Y. Yildirim, *Error estimates for a
+> physics-informed neural network solving the modified Korteweg-de Vries
+> equation*, manuscript under review, 2026.
+
+The full reference will be added here after publication.
